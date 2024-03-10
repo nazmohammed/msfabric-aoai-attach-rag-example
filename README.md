@@ -38,7 +38,6 @@ Familiarity with AI and Open AI
 An Azure account for accessing Azure AI Services (optional for those who want to follow along with live demonstrations).
 
 
-
 Getting Started
  
 To prepare for the workshop, please ensure you have the following:
@@ -46,6 +45,8 @@ A development environment capable of running Python 3.6 or later.
 MS Fabric Spark Environment with latest Spark 3.4, Delta Lake 2.2 
 Access to MS Fabric Data Engineering Experience, OpenAI models, SynapseML, and Azure AI Services.
 The sample PDF document provided in the repository, which will be used for hands-on exercises.
+
+
 Conclusion
  
 This workshop promises an engaging and enlightening experience for all attendees, equipping them with the skills to build and deploy a cutting-edge context-aware question answering framework. We look forward to guiding you through this journey of discovery and innovation.
