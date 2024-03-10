@@ -27,6 +27,8 @@ The workshop is structured into several key modules, each designed to incrementa
 5. Integrating Azure AI Services: Leveraging Azure AI Services for enhancing the model's capabilities and performance.
 6. Retreival-Augmented Generation:  Best practices for deploying the framework in a scalable manner, ensuring it can handle real-world applications effectively.
 7. Live Demonstration: A comprehensive live demonstration of the framework in action, followed by a Q&A session to address any queries.
+
+
 Prerequisites
  
 Participants are expected to have:
@@ -34,6 +36,9 @@ A good understanding of Microsoft Fabric.
 A basic understanding of Python programming.
 Familiarity with AI and Open AI
 An Azure account for accessing Azure AI Services (optional for those who want to follow along with live demonstrations).
+
+
+
 Getting Started
  
 To prepare for the workshop, please ensure you have the following:
